@@ -15,7 +15,7 @@ Project Aspose.Email for PHP shows how different tasks can be performed using As
 ##### Method 1
 * Clone the Repository
 ```
-git clone git@github.com:asposemarketplace/Aspose-Email-Java-for-PHP.git
+git clone git@github.com:asposemarketplace/Aspose_Email_Java_for_PHP.git
 ```
 * Setup the project using composer
 ```
@@ -26,7 +26,7 @@ composer install
 ```
 {
     "require": {
-        "asposeemail/aspose-email-java-for-php": "dev-master"
+        "asposeemail/aspose_email_java_for_php": "dev-master"
     }
 }
 ```
